@@ -1,5 +1,8 @@
 
 
+# md5sum 
+
+
 ````
 heck MD5 (128-bit) checksums.
 
@@ -34,8 +37,6 @@ or available locally via: info '(coreutils) md5sum invocation'
 ````
 
 
-````
-
 # md5sum test
 
 ````
@@ -58,7 +59,6 @@ md5sum test.txt
 
 b341e710a3f85c7aa174d1b802fc50d2  test.txt
 
-````
 
 32*4=(128 bit)
 
